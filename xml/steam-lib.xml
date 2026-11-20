@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<steamLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="steam-lib.xsd">
+
+    <game id="730">
+        <title>Counter Strike 2</title>
+        <developer>Valve</developer>
+        <releaseYear>2023</releaseYear>
+        <purchaseDate>2013-07-12</purchaseDate>
+        <sizeGB>66.24</sizeGB>
+        <hoursPlayed>2759.1</hoursPlayed>
+        <tags>
+            <tag>FPS</tag>
+            <tag>Multiplayer</tag>
+            <tag>Shooter</tag>
+            <tag>eSports</tag>
+        </tags>
+    </game>  
+    
+    <game id="250900">
+        <title>The Binding of Isaac: Rebirth</title>
+        <developer>Edmund McMillen</developer>
+        <releaseYear>2014</releaseYear>
+        <purchaseDate>2018-12-27</purchaseDate>
+        <sizeGB>0.607</sizeGB>
+        <hoursPlayed>379.7</hoursPlayed>
+        <tags>
+            <tag>RogueLike</tag>
+            <tag>Indie</tag>
+            <tag>Action</tag>
+        </tags>
+    </game>
+
+    <game id="387990">
+        <title>Scrap Mechanic</title>
+        <developer>Axolot Games</developer>
+        <releaseYear>2016</releaseYear>
+        <purchaseDate>2018-10-31</purchaseDate>
+        <sizeGB>19.18</sizeGB>
+        <hoursPlayed>275.6</hoursPlayed>
+        <tags>
+            <tag>Building</tag>
+            <tag>Sandbox</tag>
+            <tag>Survival</tag>
+            <tag>Open world</tag>
+        </tags>
+    </game>
+
+    <game id="292030">
+        <title>The Witcher 3: Wild Hunt</title>
+        <developer>CD PROJEKT RED</developer>
+        <releaseYear>2015</releaseYear>
+        <purchaseDate>2021-05-27</purchaseDate>
+        <sizeGB>65.15</sizeGB>
+        <hoursPlayed>120.1</hoursPlayed>
+        <tags>
+            <tag>RPG</tag>
+            <tag>Fantasy</tag>
+            <tag>Story Rich</tag>
+        </tags>
+    </game>
+
+    <game id="960090">
+        <title>Bloons td 6</title>
+        <developer>Ninja Kiwi</developer>
+        <releaseYear>2018</releaseYear>
+        <purchaseDate>2021-12-04</purchaseDate>
+        <sizeGB>2.72</sizeGB>
+        <hoursPlayed>224.2</hoursPlayed>
+        <tags>
+            <tag>Tower Defense</tag>
+            <tag>Strategy</tag>
+        </tags>
+    </game>
+
+    <game id="100000">
+        <title>League of Legends</title>
+        <developer>RIOT GAMES</developer>
+        <releaseYear>2009</releaseYear>
+        <purchaseDate>2019-03-18</purchaseDate>
+        <sizeGB>20</sizeGB>
+        <hoursPlayed>1422</hoursPlayed>
+        <tags>
+            <tag>MOBA</tag>
+            <tag>Strategy</tag>
+            <tag>Multiplayer</tag>
+        </tags>
+    </game>
+
+</steamLibrary>

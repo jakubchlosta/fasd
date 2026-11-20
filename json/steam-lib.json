@@ -1,0 +1,64 @@
+{
+  "steamLibrary": [
+    {
+      "id": 730,
+      "title": "Counter Strike 2",
+      "developer": "Valve",
+      "releaseYear": 2023,
+      "purchaseDate": "2013-07-12",
+      "sizeGB": 66.24,
+      "hoursPlayed": 2759.1,
+      "tags": ["FPS", "Multiplayer", "Shooter", "eSports"]
+    },
+    {
+      "id": 250900,
+      "title": "The Binding of Isaac: Rebirth",
+      "developer": "Edmund McMillen",
+      "releaseYear": 2014,
+      "purchaseDate": "2018-12-27",
+      "sizeGB": 0.607,
+      "hoursPlayed": 379.7,
+      "tags": ["RogueLike", "Indie", "Action"]
+    },
+    {
+      "id": 387990,
+      "title": "Scrap Mechanic",
+      "developer": "Axolot Games",
+      "releaseYear": 2016,
+      "purchaseDate": "2018-10-31",
+      "sizeGB": 19.18,
+      "hoursPlayed": 275.6,
+      "tags": ["Building", "Sandbox", "Survival", "Open world"]
+    },
+    {
+      "id": 292030,
+      "title": "The Witcher 3: Wild Hunt",
+      "developer": "CD PROJEKT RED",
+      "releaseYear": 2015,
+      "purchaseDate": "2021-05-27",
+      "sizeGB": 65.15,
+      "hoursPlayed": 120.1,
+      "tags": ["RPG", "Fantasy", "Story Rich"]
+    },
+    {
+      "id": 960090,
+      "title": "Bloons td 6",
+      "developer": "Ninja Kiwi",
+      "releaseYear": 2018,
+      "purchaseDate": "2021-12-04",
+      "sizeGB": 2.72,
+      "hoursPlayed": 224.2,
+      "tags": ["Tower Defense", "Strategy"]
+    },
+    {
+      "id": 100000,
+      "title": "League of Legends",
+      "developer": "RIOT GAMES",
+      "releaseYear": 2009,
+      "purchaseDate": "2019-03-18",
+      "sizeGB": 20,
+      "hoursPlayed": 1422,
+      "tags": ["MOBA", "Strategy", "Multiplayer"]
+    }
+  ]
+}
